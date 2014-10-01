@@ -1,0 +1,7 @@
+ANTInterface.o: ANTInterface.c types.h antmessage.h antdefines.h
+
+types.h:
+
+antmessage.h:
+
+antdefines.h:

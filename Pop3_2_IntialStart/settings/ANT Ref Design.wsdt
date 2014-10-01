@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>ANT Ref Design Demo 1/Debug</Project><Project>ANT Ref Design Demo 2/Debug</Project><Project>ANT Ref Design Demo 4/Debug</Project><Project>ANT Ref Design Demo 5/Debug</Project><Project>ANT Ref Design Demo 3/Debug</Project></CurrentConfigs><CurrentProj>ANT Ref Design Demo 3</CurrentProj><OverviewSelected>0</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>183</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+    <Debug-Log/><TerminalIO/><Profiling/></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-27307-5313</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws></ExpandedNode><ExpandedNode>ANT Ref Design Demo 1</ExpandedNode><ExpandedNode>ANT Ref Design Demo 2</ExpandedNode><ExpandedNode>ANT Ref Design Demo 3</ExpandedNode><ExpandedNode>ANT Ref Design Demo 4</ExpandedNode><ExpandedNode>ANT Ref Design Demo 5</ExpandedNode><ExpandedNode>ANT Ref Design Demo 5/Output</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-19235-5669</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-5478-22632</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\ANTInterface.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>135</SelStart><SelEnd>135</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\ANTInterface.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>627</SelStart><SelEnd>627</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\antmessage.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>854</SelStart><SelEnd>854</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\Config.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>554</SelStart><SelEnd>554</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\System.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>579</SelStart><SelEnd>579</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\Atod.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>586</SelStart><SelEnd>586</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\BitSyncSerial.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>605</SelStart><SelEnd>605</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\test.c</Filename><XPos>0</XPos><YPos>17</YPos><SelStart>844</SelStart><SelEnd>844</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\timer.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>587</SelStart><SelEnd>587</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\antdefines.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>96</SelStart><SelEnd>96</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\Atod.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>586</SelStart><SelEnd>586</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\System.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>579</SelStart><SelEnd>579</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\types.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>807</SelStart><SelEnd>807</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\doc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>99</SelStart><SelEnd>99</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\Main_Demo4.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>365</SelStart><SelEnd>365</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\Main_Demo2.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>653</SelStart><SelEnd>653</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\Main_Demo1.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>180</SelStart><SelEnd>180</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\Main_Demo5.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>678</SelStart><SelEnd>678</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\BitSyncSerial.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>577</SelStart><SelEnd>577</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\timer.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>587</SelStart><SelEnd>587</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Builds\ANT_Reference_Designs\ANT TI EZ430 USB Reference Design\Main_Demo3.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>517</SelStart><SelEnd>517</SelEnd></Tab><ActiveTab>20</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-008ee760><key>iaridepm1</key></Toolbar-008ee760></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>686</Bottom><Right>257</Right><x>-2</x><y>-2</y><xscreen>220</xscreen><yscreen>197</yscreen><sizeHorzCX>150171</sizeHorzCX><sizeHorzCY>212973</sizeHorzCY><sizeVertCX>176792</sizeVertCX><sizeVertCY>743784</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>195</Bottom><Right>1467</Right><x>-2</x><y>-2</y><xscreen>1469</xscreen><yscreen>197</yscreen><sizeHorzCX>1002730</sizeHorzCX><sizeHorzCY>212973</sizeHorzCY><sizeVertCX>150171</sizeVertCX><sizeVertCY>212973</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
